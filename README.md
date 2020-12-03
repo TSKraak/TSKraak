@@ -24,4 +24,4 @@ My name is Thomas Kraak and I'm a fresh graduate from the Codaisseur academy pas
 
 ### GitHub stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TSKraak&show_icons=true&include_all_commits=true" alt="TSKraak's github stats1" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSKraak&layout=compact" alt="TSKraak's github stats2" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TSKraak&show_icons=true&include_all_commits=true" alt="TSKraak's github stats1" />        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSKraak&layout=compact" alt="TSKraak's github stats2" />
