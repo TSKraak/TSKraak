@@ -6,7 +6,23 @@
 Fresh graduate from the Codaisseur academy passionate about creating beautiful web- and mobile applications. I am an enthusiastic and social junior  full-stack developer looking for a new challenge to further develop and expand my developer skills.
 
 ## Languages & tools ##
-
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="javascript" width="20" height="20"/> Git
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> JavaScript
