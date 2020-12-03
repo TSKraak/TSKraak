@@ -1,10 +1,10 @@
 ![hi](hello.gif)
 ## Welcome to my GitHub ##
 
-** About me **
+**About me**
 Fresh graduate from the Codaisseur academy passionate about creating beautiful web- and mobile applications. I am an enthusiastic and social junior  full-stack developer looking for a new challenge to further develop and expand my developer skills.
 
-** Languages & tools **
+**Languages & tools**
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="javascript" width="20" height="20"/> Git
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
@@ -21,7 +21,7 @@ PostgreSQL
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="postgresql" width="20" height="20"/> Sequelize ORM
 
 
-** GitHub stats **
+**GitHub stats**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TSKraak&show_icons=true&include_all_commits=true" alt="TSKraak's github stats1" />
 </a>
