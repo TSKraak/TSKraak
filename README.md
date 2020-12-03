@@ -1,4 +1,4 @@
-## <img src="https://github.com/TSKraak/TSKraak/blob/main/hello.gif" alt="hello" width="80" height="80" style="border-radius:100px" /> Welcome to my GitHub ##
+## <img src="https://github.com/TSKraak/TSKraak/blob/main/hello.gif" alt="hello" width="80" height="80" border-radius="100px" /> Welcome to my GitHub ##
 
 
 ## About me ##
