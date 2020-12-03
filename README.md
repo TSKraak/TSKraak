@@ -1,10 +1,10 @@
-## <img src="https://github.com/TSKraak/TSKraak/blob/main/hello.gif" alt="hello" width="80" height="auto" style="border-radius:50%" /> Welcome to my GitHub ##
+## <img src="https://github.com/TSKraak/TSKraak/blob/main/hello.gif" alt="hello" width="80" height="auto" style="border-radius:100" /> Welcome to my GitHub 
 
 
-## About me ##
+### About me 
 My name is Thomas Kraak and I'm a fresh graduate from the Codaisseur academy passionate about creating beautiful web- and mobile applications. I am an enthusiastic and social junior full-stack developer looking for a new challenge to further develop and expand my developer skills.
 
-## Languages & tools ##
+### Languages & tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="javascript" width="15" height="15"/> Git
   
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> JavaScript
@@ -24,7 +24,7 @@ My name is Thomas Kraak and I'm a fresh graduate from the Codaisseur academy pas
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="postgresql" width="15" height="15"/> Sequelize ORM
 
 
-## GitHub stats ##
+### GitHub stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TSKraak&show_icons=true&include_all_commits=true" alt="TSKraak's github stats1" />
 </a>
