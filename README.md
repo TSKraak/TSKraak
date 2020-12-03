@@ -1,5 +1,5 @@
-## <img src="https://github.com/TSKraak/TSKraak/blob/main/hello.gif" alt="hello" width="80" height="80" border-radius="100px" /> Welcome to my GitHub ##
-<img src="https://github.com/TSKraak/TSKraak/blob/main/hello.gif" alt="hello" style="width:128px;height:128px;border-radius:100px" />
+## <img src="https://github.com/TSKraak/TSKraak/blob/main/hello.gif" alt="hello" width="80" height="auto" style="border-radius:50%" /> Welcome to my GitHub ##
+
 
 ## About me ##
 My name is Thomas Kraak and I'm a fresh graduate from the Codaisseur academy passionate about creating beautiful web- and mobile applications. I am an enthusiastic and social junior full-stack developer looking for a new challenge to further develop and expand my developer skills.
