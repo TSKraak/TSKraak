@@ -1,7 +1,7 @@
 ## <img src="https://github.com/TSKraak/TSKraak/blob/main/hello.gif" alt="hello" width="80" height="auto" style="border-radius:100" /> Welcome to my GitHub 
 
 I am an enthusiastic and social junior full-stack developer, passionate about creating beautiful web- and mobile applications, looking for a new challenge to further develop and expand my developer skills.
-I’m at my best in a social and inspiring environment where as a team, get the best out of every individual and create something amazing.
+I’m at my best in a social and inspiring environment where as a team, we get the best out of every individual and create something amazing.
 
 ### Languages & tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="javascript" width="15" height="15"/> Git
