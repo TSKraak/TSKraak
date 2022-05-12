@@ -4,24 +4,15 @@ I am an enthusiastic and social junior full-stack developer, passionate about cr
 I’m at my best in a social and inspiring environment where as a team, we get the best out of every individual and create something amazing.
 
 ### Languages & tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="javascript" width="15" height="15"/> Git
-  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> JavaScript
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/> NodeJS
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> React (Hooks)
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="15" height="15"/> Redux
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="redux" width="15" height="15"/> TypeScript
-
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="15" height="15"/> Express
-  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="15" height="15"/> PostgreSQL
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="postgresql" width="15" height="15"/> Sequelize ORM
-
+- Git
+- JavaScript
+- NodeJS
+- React (Hooks)
+- Redux
+- TypeScript
+- Express
+- PostgreSQL
+- Sequelize ORM
 
 ### GitHub stats
 
