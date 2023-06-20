@@ -5,14 +5,21 @@ I’m at my best in a social and inspiring environment where as a team, we get t
 
 ### Languages & tools
 - Git
+- HTML / CSS
 - JavaScript
-- NodeJS
 - React (Hooks)
 - Redux
+- Angular2
+- Angular Universal
 - TypeScript
+- NodeJS
+- Azure
 - Express
 - PostgreSQL
 - Sequelize ORM
+- (REST) API
+- JSON
+- Jenkins
 
 ### GitHub stats
 
